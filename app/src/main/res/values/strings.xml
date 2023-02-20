@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hello SKT</string>
+    <string name="my_name">Leong Wen Wei</string>
+    <string name="show_button">Show</string>
+    <string name="hide_button">Hide</string>
+</resources>
